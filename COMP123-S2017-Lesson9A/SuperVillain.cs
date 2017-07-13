@@ -8,7 +8,7 @@ using System.Text;
  * Date: July 13, 2017
  * Description: This is the SuperVillain class which is inherits from SuperHuman Class
  * and implements the  IHasMalice Interface
- * Version: 0.1- Create SuperVillain class
+ * Version: 0.2- Modify the main contructor to take malice value
  */
 
 namespace COMP123_S2017_Lesson9A
