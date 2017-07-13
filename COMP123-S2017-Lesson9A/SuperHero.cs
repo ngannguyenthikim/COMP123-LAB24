@@ -43,10 +43,10 @@ namespace COMP123_S2017_Lesson9A
         /// It takes one argument - name (string)
         /// </summary>
         /// <param name="name"></param>
-        public SuperHero(string name, int karma)
+        public SuperHero(string name)
             :base(name)
         {
-            this.Karma = karma;
+           
         }
 
         // PRIVATE METHODS
