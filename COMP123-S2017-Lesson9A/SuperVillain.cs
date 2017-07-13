@@ -41,5 +41,8 @@ namespace COMP123_S2017_Lesson9A
         {
             this._malice = malice;
         }
+        // PRIVATE METHODS
+
+        // PUBLIC METHODS
     }
 }
